@@ -5,29 +5,29 @@ using namespace std;
 class nodo { 
 	
    public:
-    nodo(int v) 
+    nodo(pnodo v) 
     {
        valor = v;
        siguiente = NULL;
     }
 
  
-    nodo(int v, nodo * signodo) 
+    nodo(pnodo v, nodo * signodo) 
     {
        valor = v;
        siguiente = signodo;
     }
 
-
-   private: 
-    int valor; 
-    nodo *siguiente; 
-    
-        
-   friend class lista; 
+   public: 
+    pnodo valor; 
+    nodo *siguiente;
+            
+   friend class lista;
+   friend class NodoBinario;
+   friend class Binario;
 
 };
-typedef nodo *pnodo; 
+typedef nodo *pnodoSimp; 
 
 class lista {
    public:
@@ -37,9 +37,9 @@ class lista {
     	
 	}
     ~lista();
-    void InsertarInicio(int v);
-    void InsertarFinal(int v);
-    void InsertarPos (int v, int pos);
+    void InsertarInicio(pnodo v);
+    void InsertarFinal(pnodo v);
+    void InsertarPos (pnodo v, int pos);
     bool ListaVacia() { return primero == NULL; } 
     void Imprimir();
     void Mostrar();
@@ -50,13 +50,13 @@ class lista {
     int largoLista();
       
    private:
-    pnodo primero; // nodo *primero; tipo nodo tiene derechoi direccionar un nodo
+    pnodoSimp primero; // nodo *primero; tipo nodo tiene derechoi direccionar un nodo
    
 };
   
 lista::~lista() //Destructor
 {
-   pnodo aux;
+   pnodoSimp aux;
    
    while(primero) {
       aux = primero;
@@ -69,7 +69,7 @@ lista::~lista() //Destructor
 int lista::largoLista(){ //largo
     int cont=0;
 
-    pnodo aux; //nodo *aux;
+    pnodoSimp aux; //nodo *aux;
     aux = primero;
     if(ListaVacia()){
         return cont;
@@ -83,7 +83,7 @@ int lista::largoLista(){ //largo
     
 }
 
-void lista::InsertarInicio(int v)
+void lista::InsertarInicio(pnodo v)
 {
    if (ListaVacia())
      primero = new nodo(v);
@@ -91,25 +91,25 @@ void lista::InsertarInicio(int v)
      primero=new nodo (v,primero);
 }
  
-void lista::InsertarFinal(int v)
+void lista::InsertarFinal(pnodo v)
 {
    if (ListaVacia())
      primero = new nodo(v);
    else
-     { pnodo aux = primero;
+     { pnodoSimp aux = primero;
         while ( aux->siguiente != NULL)
           aux= aux->siguiente;
         aux->siguiente=new nodo(v);
       }    
 }
 
-void lista::InsertarPos(int v, int pos) 
+void lista::InsertarPos(pnodo v, int pos) 
 {
    if (ListaVacia())
      primero = new nodo(v);
    else{
         if(pos <=1){                     //InsertarInicio(v);
-          pnodo nuevo = new nodo(v);
+          pnodoSimp nuevo = new nodo(v);
           nuevo->siguiente= primero;
           primero= nuevo;     
         }      
@@ -120,13 +120,13 @@ void lista::InsertarPos(int v, int pos)
 			else
 			{
 			
-             pnodo aux= primero;
+             pnodoSimp aux= primero;
              int i =2;
              while((i != pos )&&(aux->siguiente!= NULL)){
                    i++;
                    aux=aux->siguiente;
              }
-             pnodo nuevo= new nodo(v); //1 NODO
+             pnodoSimp nuevo= new nodo(v); //1 NODO
              nuevo->siguiente=aux->siguiente; // 2 Nuevo con el valor siguiente 20
              aux->siguiente=nuevo;// 3 aux con nuevo
             }
@@ -145,13 +145,13 @@ void lista::BorrarFinal()
                 primero= NULL;
             } else {
 
-                pnodo aux = primero;
+                pnodoSimp aux = primero;
                 while (aux->siguiente->siguiente != NULL) {
                     aux = aux->siguiente;
 
                 }
                 
-              pnodo temp = aux->siguiente;
+              pnodoSimp temp = aux->siguiente;
               aux->siguiente= NULL;
 
                 
@@ -169,14 +169,14 @@ void lista::BorrarInicio()
    {
         if (primero->siguiente == NULL)
 		{
-        	    pnodo temp=primero;
+        	    pnodoSimp temp=primero;
                 primero= NULL;
                 delete temp;
         }
 		else
 		{
 
-                pnodo aux = primero;
+                pnodoSimp aux = primero;
                 primero=primero->siguiente;                
                 delete aux;
         }
@@ -196,7 +196,7 @@ void lista:: borrarPosicion(int pos){
         primero=primero->siguiente;
         }else{
           int cont=2;
-            pnodo aux=  primero;
+            pnodoSimp aux=  primero;
             while(cont<pos){
              aux=aux->siguiente;
              cont++;

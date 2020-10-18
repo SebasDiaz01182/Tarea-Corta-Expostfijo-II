@@ -31,7 +31,5 @@ public:
 
 };
 
-
-
 #endif	/* _BINARIO_H */
 

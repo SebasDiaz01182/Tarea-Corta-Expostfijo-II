@@ -8,7 +8,7 @@
 #include<string>
 #include<sstream>
 #include <math.h>
-#include "listaSimple.cpp"
+#include "listaSimple.hpp"
 
 using namespace std;
 //Prototipo de Funciones
@@ -107,8 +107,13 @@ void ArchivoTxT(string cadena, string cadena2){
 void ConstruirArbol1(){
 	lista pila;
 	lista expresion;
-	
-	
+	ifstream archivo;
+    string texto;
+    archivo.open("Arch1.txt",ios::in);
+    if (archivo.fail()){
+        cout<<"No se pudo abrir el archivo";
+        exit(1);
+    }
 }
 
 int main(){
