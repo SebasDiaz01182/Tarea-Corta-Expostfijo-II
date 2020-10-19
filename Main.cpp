@@ -9,6 +9,7 @@
 #include<sstream>
 #include <math.h>
 #include "listaSimple.hpp"
+#include "NodoBinario.h"
 
 using namespace std;
 //Prototipo de Funciones
@@ -114,10 +115,88 @@ void ConstruirArbol1(){
         cout<<"No se pudo abrir el archivo";
         exit(1);
     }
+    else{
+    	while(!archivo.eof()){
+    		getline(archivo,texto);
+    		if(EsOperador(texto)){
+    			if(pila.ListaVacia()){
+    				pnodo nuevo = new NodoBinario(texto);
+    				pila.InsertarInicio(nuevo);
+				}
+				else{
+					if(texto ==")"){
+						pnodo raiz = new NodoBinario(pila.primero->valor->valor);
+						pila.BorrarInicio();
+						pnodo derecho = new NodoBinario(expresion.primero->valor->valor);
+	    				expresion.BorrarInicio();
+	    				pnodo izquierdo = new NodoBinario(expresion.primero->valor->valor);
+	    				expresion.BorrarInicio();
+	    				raiz->Hder = derecho;
+	    				raiz->Hizq = izquierdo;
+	    				cout<<"Raiz: "<<raiz->valor<<endl;
+		    			cout<<"Hijo derecho: "<<raiz->Hder->valor<<endl;
+		    			cout<<"Hijo izquierdo: "<<raiz->Hizq->valor<<endl;
+	    				expresion.InsertarInicio(raiz);
+					}
+					else{
+						if(MostrarPrioridadDP(pila.primero->valor->valor)<MostrarPrioridadAP(texto)){
+							pnodo nuevo = new NodoBinario(texto);
+							pila.InsertarInicio(nuevo);
+						}
+						else{
+							pnodo raiz = new NodoBinario(pila.primero->valor->valor);
+							pila.BorrarInicio();
+							pnodo derecho = new NodoBinario(expresion.primero->valor->valor);
+		    				expresion.BorrarInicio();
+		    				pnodo izquierdo = new NodoBinario(expresion.primero->valor->valor);
+		    				expresion.BorrarInicio();
+		    				raiz->Hder = derecho;
+		    				raiz->Hizq = izquierdo;
+		    				cout<<"Raiz: "<<raiz->valor<<endl;
+		    				cout<<"Hijo derecho: "<<raiz->Hder->valor<<endl;
+		    				cout<<"Hijo izquierdo: "<<raiz->Hizq->valor<<endl;
+		    				expresion.InsertarInicio(raiz);
+		    				pnodo nuevo = new NodoBinario(texto);
+		    				pila.InsertarInicio(nuevo);
+						}
+					}
+				}
+			}
+			else{
+				//Si no es operador
+				pnodo nuevo = new NodoBinario(texto);
+				expresion.InsertarInicio(nuevo);
+			}
+    	cout<<"Pila: "<<endl;
+    	pila.Mostrar();
+    	cout<<endl;
+    	cout<<"Expresion: "<<endl;
+    	expresion.Mostrar();
+    	cout<<endl;
+		}
+		if(!pila.ListaVacia()){
+			pnodo raiz = new NodoBinario(pila.primero->valor->valor);
+			pila.BorrarInicio();
+			pnodo derecho = new NodoBinario(expresion.primero->valor->valor);
+		    expresion.BorrarInicio();
+			pnodo izquierdo = new NodoBinario(expresion.primero->valor->valor);
+			expresion.BorrarInicio();
+			raiz->Hder = derecho;
+			raiz->Hizq = izquierdo;
+			cout<<"Raiz: "<<raiz->valor<<endl;
+			cout<<"Hijo derecho: "<<raiz->Hder->valor<<endl;
+			cout<<"Hijo izquierdo: "<<raiz->Hizq->valor<<endl;
+			expresion.InsertarInicio(raiz);
+		}
+		cout<<"Pila Final: "<<endl;
+		pila.Mostrar();
+		cout<<"Expresion final: "<<endl;
+		expresion.Mostrar();
+	}
 }
 
 int main(){
-	
+	ConstruirArbol1();
    return 0;
 }
 

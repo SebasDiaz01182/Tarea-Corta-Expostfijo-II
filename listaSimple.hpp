@@ -49,7 +49,7 @@ class lista {
     void borrarPosicion(int pos);
     int largoLista();
       
-   private:
+   public:
     pnodoSimp primero; // nodo *primero; tipo nodo tiene derechoi direccionar un nodo
    
 };
@@ -221,7 +221,7 @@ void lista::Mostrar()
    		aux = primero;
 		while(aux) 
 		{
-		    cout << aux->valor << "-> ";
+		    cout << aux->valor->valor<< "-> ";
 		    aux = aux->siguiente;
 		}
 		cout << endl;
