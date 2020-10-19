@@ -87,6 +87,40 @@ bool EsParentesis(string cadena){
     return false;
 }
 
+void PreordenR(NodoBinario *R){
+    
+    if(R==NULL){
+        return;
+    }else{
+        cout<<R->valor<<" -> ";
+        PreordenR(R->Hizq);
+        PreordenR(R->Hder);
+    }
+}
+
+void InordenR(pnodo R){
+
+    if(R==NULL){
+        return;
+    }else{
+        InordenR(R->Hizq);
+        cout<<R->valor<<" -> ";
+        InordenR(R->Hder);
+    }
+}
+
+void PostordenR(pnodo R){
+
+    if(R==NULL){
+        return;
+    }else{
+        PostordenR(R->Hizq);
+        PostordenR(R->Hder);
+        cout<<R->valor<<" -> ";
+    }
+}
+
+
 void ArchivoTxT(string cadena, string cadena2){
 	ofstream archivo;
 	int numero;
@@ -130,21 +164,14 @@ void ConstruirArbol1(){
 	    				pnodoSimp recorrerP = pila.primero;
 	    				while(recorrerP != NULL){
 	    					if(EsParentesis(recorrerP->valor->valor)){
-	    						cout<<"ENCONTRE UN PARENTESIS"<<endl;
 	    						cont++;
-	    						cout<<"Contador: "<< cont<<endl;
 	    						break;
 							}else{
 								pnodo raiz = new NodoBinario(recorrerP->valor->valor);
-								pnodo derecho = new NodoBinario(expresion.primero->valor->valor);
+			    				raiz->Hder = expresion.primero->valor;
+			    				raiz->Hizq = expresion.primero->siguiente->valor;
 			    				expresion.BorrarInicio();
-			    				pnodo izquierdo = new NodoBinario(expresion.primero->valor->valor);
 			    				expresion.BorrarInicio();
-			    				raiz->Hder = derecho;
-			    				raiz->Hizq = izquierdo;
-			    				cout<<"Raiz: "<<raiz->valor<<endl;
-				    			cout<<"Hijo derecho: "<<raiz->Hder->valor<<endl;
-				    			cout<<"Hijo izquierdo: "<<raiz->Hizq->valor<<endl;
 			    				expresion.InsertarInicio(raiz);
 								//AGREGAR A LA EXPRESION
 								cont++;
@@ -162,15 +189,10 @@ void ConstruirArbol1(){
 						else{
 							pnodo raiz = new NodoBinario(pila.primero->valor->valor);
 							pila.BorrarInicio();
-							pnodo derecho = new NodoBinario(expresion.primero->valor->valor);
+							raiz->Hder = expresion.primero->valor;
+		    				raiz->Hizq = expresion.primero->siguiente->valor;
 		    				expresion.BorrarInicio();
-		    				pnodo izquierdo = new NodoBinario(expresion.primero->valor->valor);
 		    				expresion.BorrarInicio();
-		    				raiz->Hder = derecho;
-		    				raiz->Hizq = izquierdo;
-		    				cout<<"Raiz: "<<raiz->valor<<endl;
-		    				cout<<"Hijo derecho: "<<raiz->Hder->valor<<endl;
-		    				cout<<"Hijo izquierdo: "<<raiz->Hizq->valor<<endl;
 		    				expresion.InsertarInicio(raiz);
 		    				pnodo nuevo = new NodoBinario(texto);
 		    				pila.InsertarInicio(nuevo);
@@ -183,33 +205,30 @@ void ConstruirArbol1(){
 				pnodo nuevo = new NodoBinario(texto);
 				expresion.InsertarInicio(nuevo);
 			}
-    	cout<<"Pila: "<<endl;
-    	pila.Mostrar();
-    	cout<<endl;
-    	cout<<"Expresion: "<<endl;
-    	expresion.Mostrar();
-    	cout<<endl;
 		}
 		if(!pila.ListaVacia()){
 			pnodo raiz = new NodoBinario(pila.primero->valor->valor);
 			pila.BorrarInicio();
-			pnodo derecho = new NodoBinario(expresion.primero->valor->valor);
-		    expresion.BorrarInicio();
-			pnodo izquierdo = new NodoBinario(expresion.primero->valor->valor);
+			raiz->Hder = expresion.primero->valor;
+			raiz->Hizq = expresion.primero->siguiente->valor;
 			expresion.BorrarInicio();
-			raiz->Hder = derecho;
-			raiz->Hizq = izquierdo;
-			cout<<"Raiz: "<<raiz->valor<<endl;
-			cout<<"Hijo derecho: "<<raiz->Hder->valor<<endl;
-			cout<<"Hijo izquierdo: "<<raiz->Hizq->valor<<endl;
+			expresion.BorrarInicio();
 			expresion.InsertarInicio(raiz);
+			
 			//--------------------------------------------------------------------------
 		}
-		cout<<"Pila Final: "<<endl;
-		pila.Mostrar();
-		cout<<"Expresion final: "<<endl;
-		expresion.Mostrar();
+	
 	}
+	cout<<"Inorden: "<<endl;
+	InordenR(expresion.primero->valor);
+	cout<<endl;
+	cout<<"Preorden: "<<endl;
+	PreordenR(expresion.primero->valor);
+	cout<<endl;
+	cout<<"PostOrden"<<endl;
+	PostordenR(expresion.primero->valor);
+	cout<<endl;
+	
 }
 
 int main(){
