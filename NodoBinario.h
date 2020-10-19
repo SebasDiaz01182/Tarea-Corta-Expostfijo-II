@@ -31,8 +31,5 @@ class NodoBinario {
 typedef NodoBinario *pnodo;
 typedef NodoBinario *pNodoBinario;
 
-void PreordenR(NodoBinario* R);
-void InordenR(NodoBinario* R);
-void PostordenR(NodoBinario* R);
 #endif	
 

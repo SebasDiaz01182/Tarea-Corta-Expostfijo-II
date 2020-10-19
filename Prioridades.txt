@@ -1,0 +1,1005 @@
+-----Archivo#1-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    +    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    ^    Valor del operador: 3
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#2-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    *    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    +    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#3-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#4-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    *    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    *    Valor del operador: 2
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    /    Valor del operador: 2
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#5-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    ^    Valor del operador: 3
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    /    Valor del operador: 2
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#1-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    +    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    ^    Valor del operador: 3
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#2-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    *    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    +    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#3-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#4-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    *    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    *    Valor del operador: 2
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    /    Valor del operador: 2
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#5-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    ^    Valor del operador: 3
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    /    Valor del operador: 2
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#1-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    +    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    ^    Valor del operador: 3
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#2-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    *    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    +    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#3-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#4-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    *    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    *    Valor del operador: 2
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    /    Valor del operador: 2
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#5-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    ^    Valor del operador: 3
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    /    Valor del operador: 2
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#1-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#2-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    *    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    +    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#3-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#4-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    *    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    *    Valor del operador: 2
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    /    Valor del operador: 2
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#5-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    ^    Valor del operador: 3
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    /    Valor del operador: 2
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#1-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#2-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    *    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    +    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#3-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#4-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    *    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    *    Valor del operador: 2
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    /    Valor del operador: 2
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#5-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    ^    Valor del operador: 3
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    /    Valor del operador: 2
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#1-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#2-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    *    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    +    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#3-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#4-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    *    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    *    Valor del operador: 2
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    /    Valor del operador: 2
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#5-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    ^    Valor del operador: 3
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    /    Valor del operador: 2
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#1-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#2-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    *    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    +    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#3-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#4-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    *    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    *    Valor del operador: 2
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    /    Valor del operador: 2
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#5-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    ^    Valor del operador: 3
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    /    Valor del operador: 2
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#1-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#2-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    *    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    +    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#3-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#4-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    *    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    *    Valor del operador: 2
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    /    Valor del operador: 2
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#5-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    ^    Valor del operador: 3
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    /    Valor del operador: 2
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#1-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#2-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    *    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    +    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    +    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#3-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#4-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    *    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    *    Valor del operador: 2
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    /    Valor del operador: 2
+Operación fuera de pila a comparar:    (    Valor del operador: 5
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    -    Valor del operador: 1
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    -    Valor del operador: 1
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+-----Archivo#5-----
+Operación dentro de pila a comparar:    (    Valor del operador: 0
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    ^    Valor del operador: 3
+Operación fuera de pila a comparar:    /    Valor del operador: 2
+La prioridad fuera de la Pila es menor o igual a la prioridad dentro de la Pila
+
+Operación dentro de pila a comparar:    /    Valor del operador: 2
+Operación fuera de pila a comparar:    ^    Valor del operador: 4
+La prioridad fuera de la Pila es mayor que la prioridad dentro de la Pila
+
