@@ -110,7 +110,7 @@ void ConstruirArbol1(){
 	lista expresion;
 	ifstream archivo;
     string texto;
-    archivo.open("Arch1.txt",ios::in);
+    archivo.open("Arch4.txt",ios::in);
     if (archivo.fail()){
         cout<<"No se pudo abrir el archivo";
         exit(1);
@@ -125,20 +125,36 @@ void ConstruirArbol1(){
 				}
 				else{
 					if(texto ==")"){
-						pnodo raiz = new NodoBinario(pila.primero->valor->valor);
-						pila.BorrarInicio();
-						pnodo derecho = new NodoBinario(expresion.primero->valor->valor);
-	    				expresion.BorrarInicio();
-	    				pnodo izquierdo = new NodoBinario(expresion.primero->valor->valor);
-	    				expresion.BorrarInicio();
-	    				raiz->Hder = derecho;
-	    				raiz->Hizq = izquierdo;
-	    				cout<<"Raiz: "<<raiz->valor<<endl;
-		    			cout<<"Hijo derecho: "<<raiz->Hder->valor<<endl;
-		    			cout<<"Hijo izquierdo: "<<raiz->Hizq->valor<<endl;
-	    				expresion.InsertarInicio(raiz);
-					}
-					else{
+						
+	    				int cont= 0;
+	    				pnodoSimp recorrerP = pila.primero;
+	    				while(recorrerP != NULL){
+	    					if(EsParentesis(recorrerP->valor->valor)){
+	    						cout<<"ENCONTRE UN PARENTESIS"<<endl;
+	    						cont++;
+	    						cout<<"Contador: "<< cont<<endl;
+	    						break;
+							}else{
+								pnodo raiz = new NodoBinario(recorrerP->valor->valor);
+								pnodo derecho = new NodoBinario(expresion.primero->valor->valor);
+			    				expresion.BorrarInicio();
+			    				pnodo izquierdo = new NodoBinario(expresion.primero->valor->valor);
+			    				expresion.BorrarInicio();
+			    				raiz->Hder = derecho;
+			    				raiz->Hizq = izquierdo;
+			    				cout<<"Raiz: "<<raiz->valor<<endl;
+				    			cout<<"Hijo derecho: "<<raiz->Hder->valor<<endl;
+				    			cout<<"Hijo izquierdo: "<<raiz->Hizq->valor<<endl;
+			    				expresion.InsertarInicio(raiz);
+								//AGREGAR A LA EXPRESION
+								cont++;
+								recorrerP= recorrerP->siguiente;
+							}
+						}while(cont!=0){
+							pila.BorrarInicio();
+							cont--;
+						}
+					}else{
 						if(MostrarPrioridadDP(pila.primero->valor->valor)<MostrarPrioridadAP(texto)){
 							pnodo nuevo = new NodoBinario(texto);
 							pila.InsertarInicio(nuevo);
@@ -187,6 +203,7 @@ void ConstruirArbol1(){
 			cout<<"Hijo derecho: "<<raiz->Hder->valor<<endl;
 			cout<<"Hijo izquierdo: "<<raiz->Hizq->valor<<endl;
 			expresion.InsertarInicio(raiz);
+			//--------------------------------------------------------------------------
 		}
 		cout<<"Pila Final: "<<endl;
 		pila.Mostrar();
@@ -199,4 +216,3 @@ int main(){
 	ConstruirArbol1();
    return 0;
 }
-
